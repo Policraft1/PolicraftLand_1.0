@@ -5,7 +5,9 @@
 Instucciones para Ingresar al servidor!!
 
 
-////REGLAS/////
+---------
+REGLAS
+-----------
 -No romper ningun bloque del spawn,y no maltratar el alrededor.
 -No maltratar el mundo (no destruir a lo menso)
 -No romper construcciones o casas de otros jugadores
@@ -14,7 +16,9 @@ Instucciones para Ingresar al servidor!!
 
 ------------------------
 En caso de violar esas reglas, seras baneado, el tiempo dependera de la regla incumplida,ademas perderas todas tus pertenencias.
-
+-------------------------
+PASOS
+---------------
 Primero deberas tener instalado  Minecraft en tu computadora con la version 1.12.2
 Para despues instalar forge 1.12.2 
 Descargar Forge https://drive.google.com/open?id=1vC3uFKZ3Xq2iV8N6h9zDDOg7PnyCfWxx
