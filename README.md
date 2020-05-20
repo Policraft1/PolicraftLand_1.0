@@ -1,6 +1,19 @@
 # PolicraftLand_1.0
+
+
+
 Instucciones para Ingresar al servidor!!
 
+
+////REGLAS/////
+-No romper ningun bloque del spawn,y no maltratar el alrededor.
+-No maltratar el mundo (no destruir a lo menso)
+-No romper construcciones o casas de otros jugadores
+-No Robar ningun contenido de las aldeas
+-No producir o tener TNT
+
+------------------------
+En caso de violar esas reglas, seras baneado, el tiempo dependera de la regla incumplida,ademas perderas todas tus pertenencias.
 
 Primero deberas tener instalado  Minecraft en tu computadora con la version 1.12.2
 Para despues instalar forge 1.12.2 
