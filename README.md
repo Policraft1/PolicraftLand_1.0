@@ -56,7 +56,7 @@ https://drive.google.com/open?id=1C_G5_VmIJt_Utuj4wkFdWw0YUr4MTqT6
 
 Deberas descargar el.zip extraer los archivos, para despues copiar el contenido a la carpeta de mods
 
-WIN + R (% APPDATA%) -. Minecraft / mods / (Y PEGAR TODOS LOS ARCHIVOS EN ESTA CARPETA)
+WIN + R (% APPDATA%) -. Minecraft / mods / (Primero tienes que vaciar la carpeta mods Y despues PEGAR TODOS LOS ARCHIVOS EN LA CARPETA MODS)
 
 UNA pegado todos los archivos iniciar minecraft
 
