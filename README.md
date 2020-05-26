@@ -52,7 +52,7 @@ Descargar Forge https://drive.google.com/open?id=1vC3uFKZ3Xq2iV8N6h9zDDOg7PnyCfW
 Una vez instalado forge, Habra que comprobar su correctamente funcionamiento
 Despues de comprobar que haya cargado todo correctamente
 tendras que desgarcar el Modpack en el siguiente Link
-https://drive.google.com/open?id=1C_G5_VmIJt_Utuj4wkFdWw0YUr4MTqT6
+https://drive.google.com/open?id=1_On3gzUkx-NMjkNwsde6IGlpqRZ6A_Nk
 
 Deberas descargar el.zip extraer los archivos, para despues copiar el contenido a la carpeta de mods
 
